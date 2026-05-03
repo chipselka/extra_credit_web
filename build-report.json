@@ -1,0 +1,30 @@
+{
+  "pipeline": "/animated-website",
+  "generatedAt": "2026-05-02T00:00:00Z",
+  "briefSource": "brief.txt",
+  "mcp": {
+    "stitch": "fell-back",
+    "firecrawl": "skipped",
+    "magic": "skipped"
+  },
+  "skills": {
+    "brand": "fired",
+    "ui-ux-pro-max": "fired",
+    "design-system": "fired",
+    "design": "fell-back",
+    "ui-styling": "fired",
+    "nano-banana-2": "fell-back"
+  },
+  "images": {
+    "hero-volleyball": "tier-3",
+    "mini-balls": "tier-3",
+    "nav-logo": "tier-3"
+  },
+  "notes": {
+    "nano-banana-2": "infsh CLI not installed — fell back to tier-3 hand-authored SVG",
+    "design": "Gemini auth not available — logo/icons hand-authored as inline SVG",
+    "stitch": "MCP not installed — all section layouts hand-authored using Step 3 tokens",
+    "firecrawl": "Skipped — no reference URL in brief",
+    "magic": "Skipped — no 21st.dev component explicitly requested in brief"
+  }
+}

@@ -1,0 +1,56 @@
+Create a modern volleyball tournament website with a light, clean, and sporty design.
+
+The website should be about volleyball and help users organize matches. The main function is that users can add team names, and then the system automatically generates a schedule showing which team plays against which team.
+
+Design requirements:
+- Light colors, not dark
+- Use white, light blue, soft orange, and maybe a little yellow
+- Modern, clean, and easy to use
+- Volleyball theme, but not too childish
+- Add volleyball images or illustrations
+- Add small animations with volleyball balls, for example floating balls, bouncing ball icons, or ball movement in the hero section
+- Use rounded cards, soft shadows, and smooth hover effects
+- Make it responsive for laptop and phone
+
+Website sections:
+1. Hero section
+- Big title like “VolleyMatch Planner”
+- Short description about organizing volleyball games
+- Volleyball image or animated ball
+- Button: “Start Planning”
+
+2. Add Teams section
+- Input where users can type team names
+- Button: “Add Team”
+- Show a list of added teams
+- Option to delete a team
+
+3. Generate Schedule section
+- Button: “Generate Schedule”
+- Automatically create a table showing matches
+- Example columns: Game Number, Team 1, Team 2, Date/Time, Court
+- The system should create matchups from the team list
+
+4. Scores / Records section
+- Add a place where users can record match results
+- Example columns: Team 1 Score, Team 2 Score, Winner
+- Allow users to save or edit scores
+
+5. Match History section
+- Show previous games after scores are recorded
+- Include team names, final score, winner, and date
+- Make it look like clean history cards or a table
+
+6. Standings section
+- Show team records
+- Columns: Team Name, Wins, Losses, Points
+- Update based on the recorded results if possible
+
+Important functionality:
+- Users can add teams
+- Users can generate match schedule
+- Users can enter match scores
+- Users can see match history
+- Users can see team records/standings
+
+Use smooth animations, volleyball icons/images, and a polished UI. The website should feel useful, organized, and visually attractive.
